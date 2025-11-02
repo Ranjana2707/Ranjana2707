@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=https://media.gifdb.com/red-hair-shy-blush-anime-ezra-scarlet-fairy-p605o13f7mv01kn0.gif  />
 
 ###
 
@@ -47,8 +47,12 @@
   <a href="https://leetcode.com/u/Ranjana2707/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo" />
 </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ <a href="mailto:ranjanasingh3984@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+ <a href="https://www.linkedin.com/in/ranjana-singh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 </div>
 
 ###
