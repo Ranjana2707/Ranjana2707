@@ -1,6 +1,6 @@
 # Hi there! 👾 I'm Ranjana Singh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;CyberSecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
