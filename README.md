@@ -11,6 +11,19 @@
 - 👯 Looking to collaborate on: **Open Source Web Applications and Web Application Testing** <!-- TODO: Specify what kind of projects you'd like to collaborate on -->
 - 💬 Ask me about: **Web Development, Cybersecurity** <!-- TODO: Add your specific areas of expertise -->
 - ⚡ Fun fact: **I debug Java code by day and hack my own apps by night-safely,ofcourse!** <!-- TODO: Add a fun fact, e.g., "I once coded for 24 hours straight on a hackathon project!" -->
+---
+
+## 🔐 Cybersecurity Skills
+
+I actively explore the cybersecurity domain and enjoy working on secure systems and ethical hacking.
+
+![Network Security](https://img.shields.io/badge/Network_Security-0057B7?style=for-the-badge&logo=gnubash&logoColor=white)  
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)  
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)  
+![Linux Security](https://img.shields.io/badge/Linux_Security-772953?style=for-the-badge&logo=linux&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-006699?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
 
 ---
 
