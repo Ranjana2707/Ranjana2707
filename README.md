@@ -128,29 +128,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 - 📊 Coursera CyberSecurity by Google
 - 📊 Coursera Java Full Stack Web Development Specialization by Board Infinity
 
-## 🎯 2026 Goals
-
-- 🚀 Contribute to 5+ open-source projects <!-- TODO: Update with your current year's goals -->
-- 📚 Master advanced Kubernetes concepts and apply them in a project
-- 🌟 Explore WebAssembly (WASM) and build a small proof-of-concept
-- 📝 Write 6+ technical blog posts on topics I'm passionate about
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Ranjana2707) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjana2707&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
